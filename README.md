@@ -1,8 +1,7 @@
 ## 🚀 About Me 
 
 # Hi 👋, I'm 
-![Logo](https://i.postimg.cc/7Zk1Tzc3/Zrzut-ekranu-2022-05-22-200014.png)
-
+![Logo](https://i.postimg.cc/TYGJHSq8/paulinadrozdz.png)
 
 My greatest asset, is persistence in pursuing a goal, responsibility for entrusted duties and always doing my best. 
 I am great with problem solving and finding optimal solutions, although I do not shun from asking for help.
