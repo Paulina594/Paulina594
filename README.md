@@ -22,6 +22,6 @@ HTML • CSS • Sass • Javascript • React • Typescript • Node.js • JQ
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulina594&show_icons=true&theme=cobalt&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Paulina594&theme=cobalt&layout=compact)](https://github.com/Paulina594/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulina594&langs_count=8&theme=cobalt&layout=compact)](https://github.com/paulina594/github-readme-stats)
 
 ## I'm glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Paulina594.Paulina594)
