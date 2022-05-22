@@ -20,3 +20,4 @@ I believe in the principle that working on self-improvement is hard, but with a 
 
 HTML • CSS • Sass • Javascript • React • Typescript • Node.js • JQuery • Bootstrap • PrestaShop • Organizational skills • Patience and consistency in pursuing goals • Responsibility • Communication
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Paulina594.Paulina594)
