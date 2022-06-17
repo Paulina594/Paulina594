@@ -23,6 +23,8 @@ HTML • CSS • Sass • Javascript • React • Typescript • Node.js • JQ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulina594&langs_count=8&theme=cobalt&layout=compact)](https://github.com/paulina594/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulina594&theme=cobalt" alt="paulina594" /></p>
+
 ## I'm glad to see you here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Paulina594.Paulina594)
 
 <h3 align="left">Support:</h3>
